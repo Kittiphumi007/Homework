@@ -1,10 +1,11 @@
 import {ApolloServer, gql} from 'apollo-server';
 //import { ApolloServer } from 'apollo-server-express';
 const users =[
-    {name: "leetu chermue ", sex: "M",ID: "62021203"},//leetu
-    {name: "thanapot kamkhanheang", sex: "M"},//thanapot
-    {name: "Titipong Khannta", sex: "M"},//Titipong
-     {name: "Thanawat", sex: "M"}, //by Thanawat
+    {name: "leetu chermue ", sex: "M",ID: "62021203"},//by leetu
+    {name: "thanapot kamkhanheang", sex: "M",ID: "62020954"},//by thanapot
+    {name: "Titipong Khannta", sex: "M",ID: "62022732"},//by Titipong
+    {name: "Thanawat", sex: "M",ID: "62020965"},//by Thanawat
+    {name: "Kittiphumi", sex: "M",ID: "62022686"},//by Kittiphumi
 ];
 
 //schema
