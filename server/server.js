@@ -4,7 +4,8 @@ const users =[
     {name: "leetu chermue ", sex: "M",ID: "62021203"},//leetu
     {name: "thanapot kamkhanheang", sex: "M"},//thanapot
     {name: "Titipong Khannta", sex: "M"},//Titipong
-     {name: "Thanawat", sex: "M"}, //by Thanawat
+    {name: "Thanawat", sex: "M"}, //by Thanawat
+    {name: "Kittiphumi", sex: "M"}, //by Kittiphumi
 ];
 
 //schema
